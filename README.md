@@ -20,9 +20,9 @@ Using Python and PyQt.
 
 # License
 
+<img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
 The MIT License <a href="https://opensource.org/licenses/MIT">(MIT)</a>
 <br>Copyright © 2015 <a href="https://github.com/NephtywS">Woongseok Kang</a>
-<img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
