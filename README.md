@@ -1,21 +1,21 @@
-Origninally derived from code.google.com/p/hash-identifier.
-
-Using Python and PyQt.
+Using Python3 and PyQt5.
 
 # Dehasher
 
 - Automatically identify the different types of hashes
-- Decrypt (if it's possible)
-- Online decrypt (like MD5, get result from online rainbow table for one-way hash functions)
 
 # Future goals
 
+- Decrypt (if it's possible)
+- Online decrypt (like MD5, get result from online rainbow table for one-way hash functions)
+- Multiple decryption
+- Support CUI
 - Machine learning for better result (remove duplicate case)
 - Apply algorithm to select meaningful word or string
 
 # Version history
 
-- 12. 23. 2015
+- x. x. 2016
   - Initial release (1.0)
 
 # License
