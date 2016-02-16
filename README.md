@@ -15,7 +15,7 @@ Using Python and PyQt5.
 
 # Version history
 
-- 16. 2. 2016
+- 2. 16. 2016
   - Initial release (1.0)
 
 # License
