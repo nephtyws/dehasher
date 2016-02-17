@@ -1,4 +1,4 @@
-Using Python and PyQt5.
+Using Python3.4 and PyQt5.
 
 # Dehasher
 
@@ -6,7 +6,7 @@ Using Python and PyQt5.
 
 # Future goals
 
-- Decrypt (if it's possible)
+- Decrypt (if it is possible)
 - Online decrypt (like MD5, get result from online rainbow table for one-way hash functions)
 - Multiple decryption (Done!)
 - Support CUI (Done!)
@@ -15,8 +15,11 @@ Using Python and PyQt5.
 
 # Version history
 
-- 2. 17. 2016
+- 2. 18. 2016
   - Initial release (1.0)
+  - Support Mac, Windows and Linux.
+  - Support single dehash (for detail result) and multiple dehash from file (line by line)
+  - Support CUI (single dehash and multiple dehash) help option is '-h'.
 
 # License
 
