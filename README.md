@@ -8,14 +8,14 @@ Using Python and PyQt5.
 
 - Decrypt (if it's possible)
 - Online decrypt (like MD5, get result from online rainbow table for one-way hash functions)
-- Multiple decryption
-- Support CUI
+- Multiple decryption (Done!)
+- Support CUI (Done!)
 - Machine learning for better result (remove duplicate case)
 - Apply algorithm to select meaningful word or string
 
 # Version history
 
-- 2. 16. 2016
+- 2. 17. 2016
   - Initial release (1.0)
 
 # License
