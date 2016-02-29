@@ -1,6 +1,6 @@
 Using Python3.4 and PyQt5.
 
-# Dehasher
+# Dehasher (Hash identifier)
 
 - Automatically identify the different types of hash (Currently only support identify)
 - Please let me know if you find a bug or issue! (Mail me or use issues on this repository!)
