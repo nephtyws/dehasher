@@ -25,7 +25,7 @@ Using Python3.4 and PyQt5.
 # Known issue
 
 - 1.0
-  - CUI Support is complete, but not being applied because of PyInstaller's --noconsole option.<br> with --noconsole option, program results won't show in the command line. I've working on it, but it is so hard for me.
+  - CUI Support is complete, but not being applied because of PyInstaller's --noconsole option.<br> with --noconsole option, program results won't show in the command line.<br>I've working on it, but it is so hard for me.
   - Program size is too big since UPX does not support Mac (64bit) and Linux (64bit) platform, It is difficult to solve.
 
 
