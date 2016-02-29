@@ -12,11 +12,11 @@ Using Python3.4 and PyQt5.
 - Online decrypt (Like MD5, get result from online rainbow table for one-way hash functions)
 - Multiple decryption (Done!)
 - Support CUI
-- Machine learning for better result (Remove duplicated case)
+- Machine learning for better result (Remove duplicated cases)
 - Apply algorithm to select meaningful word or string
 - Reduce size of program
 - Include file description (Resources)
-- Support bitcoin?
+- Support Bitcoin?
 
 # Version history
 
@@ -30,7 +30,6 @@ Using Python3.4 and PyQt5.
 - 1.0
   - CUI Support is complete, but not being applied because of PyInstaller's --noconsole option.<br> with --noconsole option, program results won't show in the command line.<br>I've working on it, but it is so hard for me.
   - Program size is too big since UPX does not support Mac (64bit) and Linux (64bit) platform, It is difficult to solve.
-
 
 # License
 
