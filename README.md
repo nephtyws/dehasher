@@ -2,7 +2,7 @@ Using Python3.4 and PyQt5.
 
 # Dehasher (Hash identifier)
 
-- Automatically identify the different types of hash (Currently only support identify)
+- Automatically identify different types of hash (Currently only support identify)
 - Please let me know if you find a bug or issue! (Mail me or use issues on this repository!)
 - ninl123@naver.com
 
